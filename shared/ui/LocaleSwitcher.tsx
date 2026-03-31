@@ -14,6 +14,7 @@ const locales = [
   { value: 'en', label: 'EN' },
   { value: 'uk', label: 'UA' },
   { value: 'ru', label: 'RU' },
+  { value: 'ar', label: 'AR' },
 ];
 
 export default function LocaleSwitcher() {

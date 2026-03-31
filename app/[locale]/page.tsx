@@ -16,7 +16,7 @@ export default function Home({
     <div>
       <div>
         <LocaleSwitcher />
-        <h1 className="text-3xl font-bold underline">{t("hello")}</h1>
+        <h1 className="text-3xl font-bold underline">{t("title")}</h1>
         <p>{t('description')}</p>
       </div>
     </div>
