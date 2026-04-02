@@ -1,4 +1,10 @@
 {
   "description": "привет описание",
+  "HomePage": {
+    "getStarted": "Начать",
+    "heroDescription": "Испытайте мощь поддержки RTL и LTR в одном приложении",
+    "heroTitle": "Строительство для всех",
+    "learnMore": "Узнать больше"
+  },
   "title": "Привет, мир"
 }

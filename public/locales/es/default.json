@@ -1,0 +1,10 @@
+{
+  "description": "descripción de hola",
+  "HomePage": {
+    "getStarted": "Comenzar",
+    "heroDescription": "Experimenta el poder del soporte RTL y LTR en una sola aplicación",
+    "heroTitle": "Construyendo para Todos",
+    "learnMore": "Aprender más"
+  },
+  "title": "Hola Mundo"
+}

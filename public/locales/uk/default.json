@@ -1,4 +1,10 @@
 {
   "description": "привіт опис",
+  "HomePage": {
+    "getStarted": "Почати",
+    "heroDescription": "Відчуйте силу підтримки RTL та LTR в одному додатку",
+    "heroTitle": "Будівництво для всіх",
+    "learnMore": "Дізнатися більше"
+  },
   "title": "Привіт, світ"
 }

@@ -1,4 +1,10 @@
 {
   "description": "hello description",
+  "HomePage": {
+    "getStarted": "Get Started",
+    "heroDescription": "Experience the power of RTL and LTR support in one app",
+    "heroTitle": "Building for Everyone",
+    "learnMore": "Learn More"
+  },
   "title": "Hello World"
 }
