@@ -1,10 +1,18 @@
 {
+  "Common": {
+    "search_btn": "بحث",
+    "search_placeholder": "بحث..."
+  },
   "description": "وصف مرحبا",
   "HomePage": {
     "getStarted": "ابدأ",
     "heroDescription": "اختبر قوة دعم الاتجاه من اليمين إلى اليسار ومن اليسار إلى اليمين في تطبيق واحد",
     "heroTitle": "البناء للجميع",
     "learnMore": "تعلم المزيد"
+  },
+  "PillsPage": {
+    "subtitle": "إدارة المكملات الغذائية وروتين الصحة الخاص بك",
+    "title": "فيتاميناتي"
   },
   "title": "مرحبا بالعالم"
 }

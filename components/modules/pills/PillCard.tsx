@@ -12,7 +12,7 @@ interface PillCardProps {
 export function PillCard({ name, tags, imageUrl, isTaken }: PillCardProps) {
   return (
     <div 
-      className={`p-5 w-full max-w-[320px] h-[140px] flex rounded-xl shadow-sm font-sans bg-white items-center gap-4 border transition-all duration-300 relative overflow-hidden
+      className={`p-5 w-full w-[340px] h-[140px] flex rounded-xl shadow-sm font-sans bg-white items-center gap-4 border transition-all duration-300 relative overflow-hidden
         ${isTaken 
           ? "bg-gray-50 border-gray-200 opacity-60 grayscale" 
           : "border-slate-100 cursor-pointer hover:shadow-md hover:border-slate-300"}`}

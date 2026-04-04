@@ -1,10 +1,18 @@
 {
+  "Common": {
+    "search_btn": "Поиск",
+    "search_placeholder": "Поиск..."
+  },
   "description": "привет описание",
   "HomePage": {
     "getStarted": "Начать",
     "heroDescription": "Испытайте мощь поддержки RTL и LTR в одном приложении",
     "heroTitle": "Строительство для всех",
     "learnMore": "Узнать больше"
+  },
+  "PillsPage": {
+    "subtitle": "Управляйте своими добавками и режимом здоровья",
+    "title": "Мои витамины"
   },
   "title": "Привет, мир"
 }

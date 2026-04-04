@@ -1,10 +1,18 @@
 {
+  "Common": {
+    "search_btn": "Buscar",
+    "search_placeholder": "Buscar..."
+  },
   "description": "descripción de hola",
   "HomePage": {
     "getStarted": "Comenzar",
     "heroDescription": "Experimenta el poder del soporte RTL y LTR en una sola aplicación",
     "heroTitle": "Construyendo para Todos",
     "learnMore": "Aprender más"
+  },
+  "PillsPage": {
+    "subtitle": "Gestiona tus suplementos y rutina de salud",
+    "title": "Mis vitaminas"
   },
   "title": "Hola Mundo"
 }

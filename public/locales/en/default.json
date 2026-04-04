@@ -1,10 +1,18 @@
 {
+  "Common": {
+    "search_btn": "Search",
+    "search_placeholder": "Search..."
+  },
   "description": "hello description",
   "HomePage": {
     "getStarted": "Get Started",
     "heroDescription": "Experience the power of RTL and LTR support in one app",
     "heroTitle": "Building for Everyone",
     "learnMore": "Learn More"
+  },
+  "PillsPage": {
+    "subtitle": "Manage your supplements and health routine",
+    "title": "My vitamins"
   },
   "title": "Hello World"
 }
