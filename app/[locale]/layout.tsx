@@ -8,6 +8,7 @@ import { ClientProviders } from "@/components/providers/client-providers";
 import { geistSans, geistMono, fontArabic } from "@/lib/fonts";
 import { cn } from "@/lib/utils";
 import LocaleSwitcher from "@/shared/ui/LocaleSwitcher";
+import { Header } from "@/components/modules/Header";
 
 export const metadata: Metadata = {
   title: "Multi-language App",
@@ -50,7 +51,7 @@ export default async function RootLayout({ children, params }: RootLayoutProps) 
     >
       <body className="h-full antialiased font-sans">
         <ClientProviders locale={locale} messages={messages} dir={dir}>
-          <LocaleSwitcher />
+          <Header />
           {children}
         </ClientProviders>
       </body>
