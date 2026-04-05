@@ -4,6 +4,7 @@
   },
   "Common": {
     "dashboard": "لوحة التحكم",
+    "not_found": "غير موجود",
     "search_btn": "بحث",
     "search_placeholder": "بحث..."
   },
@@ -21,6 +22,11 @@
     "heroDescription": "اختبر قوة دعم الاتجاه من اليمين إلى اليسار ومن اليسار إلى اليمين في تطبيق واحد",
     "heroTitle": "البناء للجميع",
     "learnMore": "تعلم المزيد"
+  },
+  "Navigation": {
+    "about_us": "معلومات عنا",
+    "contacts": "جهات الاتصال",
+    "privacy": "خصوصية"
   },
   "PillsPage": {
     "subtitle": "إدارة المكملات الغذائية وروتين الصحة الخاص بك",

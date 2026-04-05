@@ -119,7 +119,7 @@ export default function PillsPage() {
                     <Search className="text-slate-300" size={32} strokeWidth={1.5} />
                   </div>
                   <h3 className="text-xl font-bold text-slate-900 mb-1">
-                    {t('PillsPage.noVitaminsTitle') || "Нічого не знайдено"}
+                    {t('Common.not_found')}
                   </h3>
                   <p className="text-slate-400 text-sm max-w-xs mb-6">
                     За запитом "{searchQuery}" результатів немає

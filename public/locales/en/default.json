@@ -4,6 +4,7 @@
   },
   "Common": {
     "dashboard": "Dashboard",
+    "not_found": "Not Found",
     "search_btn": "Search",
     "search_placeholder": "Search..."
   },
@@ -21,6 +22,11 @@
     "heroDescription": "Experience the power of RTL and LTR support in one app",
     "heroTitle": "Building for Everyone",
     "learnMore": "Learn More"
+  },
+  "Navigation": {
+    "about_us": "About Us",
+    "contacts": "Contacts",
+    "privacy": "Privacy"
   },
   "PillsPage": {
     "subtitle": "Manage your supplements and health routine",

@@ -4,6 +4,7 @@
   },
   "Common": {
     "dashboard": "Панель управління",
+    "not_found": "Не знайдено",
     "search_btn": "Пошук",
     "search_placeholder": "Пошук..."
   },
@@ -21,6 +22,11 @@
     "heroDescription": "Відчуйте силу підтримки RTL та LTR в одному додатку",
     "heroTitle": "Будівництво для всіх",
     "learnMore": "Дізнатися більше"
+  },
+  "Navigation": {
+    "about_us": "Про нас",
+    "contacts": "Контакти",
+    "privacy": "Конфіденційність"
   },
   "PillsPage": {
     "subtitle": "Керуйте своїми добавками та режимом здоров'я",
