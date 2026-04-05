@@ -1,5 +1,9 @@
 {
+  "Buttons": {
+    "add_new": "أضف جديد"
+  },
   "Common": {
+    "dashboard": "لوحة التحكم",
     "search_btn": "بحث",
     "search_placeholder": "بحث..."
   },

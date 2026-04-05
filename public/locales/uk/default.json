@@ -1,5 +1,9 @@
 {
+  "Buttons": {
+    "add_new": "Додати новий"
+  },
   "Common": {
+    "dashboard": "Панель управління",
     "search_btn": "Пошук",
     "search_placeholder": "Пошук..."
   },

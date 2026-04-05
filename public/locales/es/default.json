@@ -1,5 +1,9 @@
 {
+  "Buttons": {
+    "add_new": "Agregar nuevo"
+  },
   "Common": {
+    "dashboard": "Tablero",
     "search_btn": "Buscar",
     "search_placeholder": "Buscar..."
   },

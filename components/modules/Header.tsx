@@ -26,10 +26,6 @@ export function Header() {
           >
             My Plan
           </Button>
-
-          <Button className="rounded-full px-6 shadow-sm hover:shadow-md transition-all">
-            Add New
-          </Button>
         </div>
 
       </div>

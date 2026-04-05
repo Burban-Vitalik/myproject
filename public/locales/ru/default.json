@@ -1,5 +1,9 @@
 {
+  "Buttons": {
+    "add_new": "Добавить новый"
+  },
   "Common": {
+    "dashboard": "Панель управления",
     "search_btn": "Поиск",
     "search_placeholder": "Поиск..."
   },

@@ -1,5 +1,9 @@
 {
+  "Buttons": {
+    "add_new": "Add New"
+  },
   "Common": {
+    "dashboard": "Dashboard",
     "search_btn": "Search",
     "search_placeholder": "Search..."
   },
