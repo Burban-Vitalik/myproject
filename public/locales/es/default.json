@@ -8,6 +8,14 @@
     "search_placeholder": "Buscar..."
   },
   "description": "descripción de hola",
+  "Filtration": {
+    "pills": {
+      "all": "Todo",
+      "day": "Día",
+      "evening": "Tarde",
+      "morning": "Mañana"
+    }
+  },
   "HomePage": {
     "getStarted": "Comenzar",
     "heroDescription": "Experimenta el poder del soporte RTL y LTR en una sola aplicación",
@@ -17,6 +25,12 @@
   "PillsPage": {
     "subtitle": "Gestiona tus suplementos y rutina de salud",
     "title": "Mis vitaminas"
+  },
+  "Sorting": {
+    "by_default": "Predeterminado",
+    "by_name": "Nombre A-Z",
+    "by_status": "Estado",
+    "sorting": "Ordenando"
   },
   "title": "Hola Mundo"
 }

@@ -8,6 +8,14 @@
     "search_placeholder": "بحث..."
   },
   "description": "وصف مرحبا",
+  "Filtration": {
+    "pills": {
+      "all": "الجميع",
+      "day": "يوم",
+      "evening": "مساء الخير",
+      "morning": "صباح الخير"
+    }
+  },
   "HomePage": {
     "getStarted": "ابدأ",
     "heroDescription": "اختبر قوة دعم الاتجاه من اليمين إلى اليسار ومن اليسار إلى اليمين في تطبيق واحد",
@@ -17,6 +25,12 @@
   "PillsPage": {
     "subtitle": "إدارة المكملات الغذائية وروتين الصحة الخاص بك",
     "title": "فيتاميناتي"
+  },
+  "Sorting": {
+    "by_default": "افتراضي",
+    "by_name": "الاسم من الألف إلى الياء",
+    "by_status": "الحالة",
+    "sorting": "ترتيب"
   },
   "title": "مرحبا بالعالم"
 }

@@ -8,6 +8,14 @@
     "search_placeholder": "Search..."
   },
   "description": "hello description",
+  "Filtration": {
+    "pills": {
+      "all": "All",
+      "day": "Day",
+      "evening": "Evening",
+      "morning": "Morning"
+    }
+  },
   "HomePage": {
     "getStarted": "Get Started",
     "heroDescription": "Experience the power of RTL and LTR support in one app",
@@ -17,6 +25,12 @@
   "PillsPage": {
     "subtitle": "Manage your supplements and health routine",
     "title": "My vitamins"
+  },
+  "Sorting": {
+    "by_default": "Default",
+    "by_name": "Name A-Z",
+    "by_status": "Status",
+    "sorting": "Sorting"
   },
   "title": "Hello World"
 }

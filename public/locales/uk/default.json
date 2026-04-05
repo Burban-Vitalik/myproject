@@ -8,6 +8,14 @@
     "search_placeholder": "Пошук..."
   },
   "description": "привіт опис",
+  "Filtration": {
+    "pills": {
+      "all": "Усе",
+      "day": "День",
+      "evening": "Вечір",
+      "morning": "Ранок"
+    }
+  },
   "HomePage": {
     "getStarted": "Почати",
     "heroDescription": "Відчуйте силу підтримки RTL та LTR в одному додатку",
@@ -17,6 +25,12 @@
   "PillsPage": {
     "subtitle": "Керуйте своїми добавками та режимом здоров'я",
     "title": "Мої вітаміни"
+  },
+  "Sorting": {
+    "by_default": "За замовчуванням",
+    "by_name": "Ім'я А-Я",
+    "by_status": "Статус",
+    "sorting": "Сортування"
   },
   "title": "Привіт, світ"
 }
