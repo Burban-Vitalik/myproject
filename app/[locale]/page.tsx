@@ -1,27 +1,11 @@
-import { use } from "react";
-import { useTranslations } from "next-intl";
-import { setRequestLocale } from "next-intl/server";
-import LocaleSwitcher from "@/shared/ui/LocaleSwitcher";
-import { HeroSection } from "@/components/modules/home/hero";
+import { PillWidget } from "@/components/modules/PillReminder";
 
-export default function Home({
-  params
-}: {
-  params: Promise<{ locale: string }>;
-}) {
-  const { locale } = use(params);
-  setRequestLocale(locale);
-
-  const t = useTranslations();
+export default function Page() {
   return (
-    <div>
-      <div>
-        <LocaleSwitcher />
-        <h1 className="text-3xl font-bold underline">{t("title")}</h1>
-        <p>{t('description')}</p>
-
-        <HeroSection />
+    <main className="p-10 w-[90%] mx-auto min-h-screen">
+      <div className="flex justify-end h-full">
+        <PillWidget/>
       </div>
-    </div>
+    </main>
   );
 }
