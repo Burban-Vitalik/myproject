@@ -52,7 +52,7 @@ export default async function RootLayout({ children, params }: RootLayoutProps) 
       <body className="h-full antialiased font-sans">
         <ClientProviders locale={locale} messages={messages} dir={dir}>
           <Header />
-          <main className="bg-gray-200 w-full mx-auto min-h-screen p-4">
+          <main className="bg-gray-50 w-full mx-auto min-h-screen p-4">
             {children}
           </main>
           <Footer />
